@@ -24,16 +24,14 @@ p {
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 8rem;
+  height: 6rem;
 }
 
 .navbar {
   display: flex;
   justify-content: space-around;
- 
-  height: 15rem;
+  height: 10rem;
 }
-
 
 .navbar p {
   display: inline-block;
