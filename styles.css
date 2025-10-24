@@ -121,7 +121,7 @@ header {
   width: 100%;
   margin-top: 0;
   border-bottom: solid 1px #c6c1c1;
-  background-image: url('./Images/dead\ possum\ logo.jpg');
+  background-image: url('dead\ possum\ logo.jpg');
   background-color: #4a4a4a;
   background-repeat: no-repeat;
   background-position: left;
@@ -221,7 +221,7 @@ header .mobile {
   justify-content: flex-start;
   align-items: flex-start;
   height: 43.5rem;
-  background-image: url("./Images/dead\ possum\ perfume.jpg");
+  background-image: url("dead\ possum\ perfume.jpg");
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
