@@ -30,7 +30,7 @@ p {
 .navbar {
   display: flex;
   justify-content: space-around;
-  height: 10rem;
+  height: 8rem;
 }
 
 .navbar p {
