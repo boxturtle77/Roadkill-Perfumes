@@ -28,9 +28,6 @@ h2, h3, h4, h5, p {
 .main {
   padding-top: 35px;
   opacity: 0.9;
-}
-
-.main {
   position: 8rem ;
   margin-bottom: 35rem; /* To offset for fixed header. */
   margin-top: 60px; /* Same as the navbar height */
@@ -44,7 +41,6 @@ h2, h3, h4, h5, p {
   border: 1px solid red;
   width: 200px;
   height: 100px;
- 
 }
 
 .image-container {
@@ -81,6 +77,15 @@ h2, h3, h4, h5, p {
 .perfume-of-the-month p{
   font-size: 12px;
   line-height: 1;
+}
+
+@media (max-width: 600px) {
+  .navbar {
+    flex-direction: column;
+  }
+  #perfume-section {
+    flex-direction: column;
+  }
 }
 
 /* Header */
